@@ -1,0 +1,4 @@
+sema,ingilizce
+sena,kara kitap
+
+

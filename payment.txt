@@ -1,0 +1,7 @@
+sena,kapıdaödeme
+ayse,kapıdaödeme
+ayse,onlineödeme,kuveytturk
+ayse,kapıdaödeme
+ahmet,kapıdaödeme
+ahmet,onlineödeme,halkbank
+ayse,onlineödeme,ziraat

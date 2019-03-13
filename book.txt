@@ -1,0 +1,6 @@
+D,ingilizce,Ahmet Yılmaz,ingilizce,34
+L,huzur,Ahmet Hamdi Tanpınar,aşk,34
+T,sosyal,Yıldız Ak,2473,45
+D,italyanca,Sema Kara,italyanca,38
+L,kara kitap,orhan pamuk,aşk,40
+T,geometri,Mehmet Kurt,3456,32
